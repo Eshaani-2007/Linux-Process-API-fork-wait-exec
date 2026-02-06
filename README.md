@@ -38,6 +38,7 @@ Test the C Program for the desired output.
 
 
 ##OUTPUT
+<img width="478" height="182" alt="Screenshot from 2026-02-06 08-24-46" src="https://github.com/user-attachments/assets/a8dd23a2-683f-494a-830c-5e32e783bf89" />
 
 
 
@@ -74,6 +75,7 @@ Test the C Program for the desired output.
 
 
 ##OUTPUT
+![WhatsApp Image 2026-02-06 at 8 29 33 AM](https://github.com/user-attachments/assets/3b3844bd-a14d-4491-91b8-bf206edf3ffa)
 
 
 
